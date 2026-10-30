@@ -7,3 +7,4 @@ if vim.env.SSH_CONNECTION then
   vim.g.clipboard = "osc52"
 end
 vim.opt.winborder = "rounded"
+vim.g.autoformat = false
